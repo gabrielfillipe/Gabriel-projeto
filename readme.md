@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto GabrieLinks" src="./preview.png" width="100%">
+  <img alt="projeto GabrieLinks" src="./assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
